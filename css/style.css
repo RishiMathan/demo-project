@@ -1,0 +1,32 @@
+table,td,th{
+    border: 1px solid black;
+    border-radius: 2px ;
+    padding:3px;
+    width:600px ;
+    border-spacing: 3px;
+    padding:10px
+    
+
+}
+ul>li{
+    list-style-type: disc;
+}
+p{
+    font-style: italic;
+
+}
+img{
+    background-color: black;
+    padding: 20PX;
+    margin-left: 600PX;
+    margin-top: 20PX;
+
+    
+}
+.container{
+    display: grid;
+    grid-template-columns: 700px 720px   ;
+}
+.color{
+    background-color:coral;
+}
